@@ -4,6 +4,8 @@
     Bu proje göze hitap eden estetik bir Neftlix web sitesi tasarımıdır. Zarif dizaynıyla dikkatleri çekmektedir.
 </p>
 
+![Image](https://github.com/user-attachments/assets/3bed739f-0edc-4786-99d9-883c47fdb657)
+
 <hr>
 
 <h2>Projenin Özellikleri </h2>
